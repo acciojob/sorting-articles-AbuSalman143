@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+
+
+#band{
+	
+	list-style:square;
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	
+}
+
+li{
+	padding:5px; 
+	border:2px solid black;;
+	width:300px;
+	border-bottom:none
+}
